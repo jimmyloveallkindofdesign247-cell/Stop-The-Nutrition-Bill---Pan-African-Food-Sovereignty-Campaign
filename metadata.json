@@ -1,0 +1,6 @@
+{
+  "name": "Stop The Nutrition Bill - Pan-African Food Sovereignty Campaign",
+  "description": "Pan-African advocacy movement demanding the withdrawal of Nigeria HB 2659 and unfair nutrition legislation to protect indigenous food wisdom and community health sovereignty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
